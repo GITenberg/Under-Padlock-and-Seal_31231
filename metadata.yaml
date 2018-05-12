@@ -1,0 +1,29 @@
+_repo: Under-Padlock-and-Seal_31231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31231-h/images/coversm.jpg
+creator:
+  author:
+    agent_name: Avery, Harold
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '3270'
+    url: http://www.gutenberg.org/2009/agents/3270
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Avery
+description: ''
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Wooden boxes -- Juvenile fiction'
+- !lcc 'PZ'
+title: Under Padlock and Seal
+url: http://www.gutenberg.org/ebooks/31231
